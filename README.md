@@ -4,7 +4,7 @@ Summary
 ---------------------------
 The AtliQ Hardware Business Insights offers a robust dashboard powered by Microsoft Power BI, tailored to provide AtliQ Hardware with comprehensive insights across their Finance, Sales, Marketing, and Supply Chain departments worldwide. This dynamic tool amalgamates data from Excel/CSV files and MySQL database, enabling a holistic view of the company's operations.
 
-Live Dashboard: [Click Here](https://app.powerbi.com/links/0bLcgNYklF?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMGI5ZmU4MjAtN2E0My00YzQxLTk0N2ItZDNlZTJhZDI3NjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 Data Sources
